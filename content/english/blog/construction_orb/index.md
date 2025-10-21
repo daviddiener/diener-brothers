@@ -76,3 +76,5 @@ We're incredibly excited for you to get your hands on the Construction Orb. Be s
 Stay tuned for more updates, and happy building!
 
 *The Diener Brothers*
+
+{{< x user="dienerbrothers" id="1980723726980378918" >}}
