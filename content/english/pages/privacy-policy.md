@@ -11,8 +11,8 @@ draft: false
 ## 1. Verantwortliche Stelle
 Diener Brothers GbR
 Vertreten durch: David Diener, Paul Diener
-[Geschäftsanschrift]
-E-Mail: [E-Mail der GbR]
+71083 Herrenberg, Naheweg 7
+E-Mail: dienerbrothers@gmail.com
 
 ## 2. Hosting und technische Bereitstellung
 Unsere Website wird über GitHub Pages (GitHub Inc., USA) bereitgestellt. Zur technischen Auslieferung der Inhalte verarbeitet GitHub die IP-Adresse Ihres Endgeräts sowie technische Log-Daten. Rechtsgrundlage ist unser berechtigtes Interesse an einer stabilen und sicheren Website-Präsentation (Art. 6 Abs. 1 lit. f DSGVO).
