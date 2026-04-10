@@ -15,9 +15,8 @@ Naheweg 7<br>
 </p><p> <strong>Vertreten durch: </strong><br>
 David Diener<br>
 Paul Diener<br>
-</p><p><strong>Umsatzsteuer-ID: </strong> <br>
-Umsatzsteuer-Identifikationsnummer gemäß §27a Umsatzsteuergesetz: DE452376311<br><br>
-<strong>Wirtschafts-ID: </strong><br>
+</p><p><strong>Umsatzsteuer-ID: DE452376311</strong> <br>
+</p><p><strong>Wirtschafts-ID: DE452376311</strong> <br>
 <br>
 </p><p><strong>Verantwortlich für den Inhalt nach § 18 Abs. 2 MStV:</strong><br>
 David Diener <br> 
